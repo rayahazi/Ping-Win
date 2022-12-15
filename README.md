@@ -95,5 +95,5 @@ My mentor was [Eden Berger](https://github.com/edenberger)
 
 * in UI: Show data while running (send and receive)
 * Add Encryption. 
-* Send data in a way that will not be discovered (diffrent sizes, bytes, timer? etc..)
+* Send data in a way that will not be discovered (diffrent sizes, bytes, intervals(different time?) etc..)
 * Add more protocols to the project
