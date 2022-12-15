@@ -93,7 +93,7 @@ My mentor was [Eden Berger](https://github.com/edenberger)
 
 `First make it work, then make it right, then make it fast`
 
-* Show data while running (send and receive)
+* in UI: Show data while running (send and receive)
 * Add Encryption. 
 * Send data in a way that will not be discovered (diffrent sizes, bytes, etc..)
 * Add more protocols to the project
