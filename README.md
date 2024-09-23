@@ -87,7 +87,9 @@ $ sudo python3 CronUI.py
 My mentor was [Eden Berger](https://github.com/edenberger)
 , who helped a lot to bring my project to life. 
 
-
+## Digital Whisper article
+I wrote an article in Hebrew, in a well-known Israeli magazine: **Digital-Whisper**.
+Link: https://www.digitalwhisper.co.il/files/Zines/0x93/DW147-6-DW147-PingWin.pdf
 
 # TODO list:
 
